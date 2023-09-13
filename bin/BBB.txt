@@ -1,0 +1,10 @@
+		Universidad Nacional De ingenieria 
+				Fec
+							26-09-2022
+		Tema: Venta de snacks asiaticos en C
+		Grupo: 1M1-C0
+
+		Jose Marin       2021-0056U
+
+
+		Docente: Ruth Herrera
